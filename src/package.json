@@ -1,0 +1,20 @@
+{
+  "name": "sophist-navigator",
+  "version": "1.0.4",
+  "description": "包的描述信息，将会在npm search的返回结果中显示，以帮助用户选择合适的包",
+  "main": "NavigatorBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage":"http://www.baidu.com",
+  "author": "sophist",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://registry.npmjs.org"
+  },
+  "keywords": [
+    "sophist",
+    "navigator"
+  ]
+}
